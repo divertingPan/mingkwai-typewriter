@@ -12,6 +12,10 @@
 
 ## 进度
 
+<img title="" src="imgs/v0.2_test.png" alt="v0.2 testing model" width="360">
+
+（update 20250316）紧凑的新结构初步验证完毕，可单独控制三个红齿轮的角度，从而完全将运动独立出来，如上图所示。带有预览轴的联动部分以及结构细节以后做。
+
 <img title="" src="imgs/v0_2manuscript.jpg" alt="v0.2 manuscript design" width="360">
 
 （update）简单设想了一个更紧凑的方案，理论上应该兼容机械编码，实际参数和设计还未验证。
