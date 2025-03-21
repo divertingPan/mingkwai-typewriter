@@ -1,8 +1,15 @@
-# mingkwai-typewriter/明快打字机
+# Chinese Mingkwai Typewriter/明快打字机（中文打字机）
 
-## 权限
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
-这是一个开源项目，欢迎在此基础上转载/改进/魔改，但请标注来源。禁止未授权的商用。
+本项目使用CC BY-NC 4.0进行许可。This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+
+这是一个开源项目，欢迎DIYer在此基础上转载/改进/魔改，但请标注来源。禁止盗用、未授权的商用。
 
 ## 背景
 
