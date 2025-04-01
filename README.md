@@ -25,9 +25,15 @@
 
 ## 进度
 
-<img title="" src="imgs/v0.2.1_test.png" alt="v0.2.1 testing model" width="652">
+（update 20250401）光固化树脂打样了一个带字的字轴，如下图，数字是字体的高度，单位mm。6mm及以下的字号可能会出现细线缺失的问题。而即使是8mm的大字，点或细线部分，我用手去扣动，感觉牢固性也堪忧。目前在寻找学习如何制作一个下大上小的那种锥形刻面文字的建模效果。solidworks做这种模型无力，得换工具了。
+
+<img title="" src="imgs/charbar.jpg" alt="characters testing">
+
+---
 
 （update 20250319）稍微精细的建模了转轮组比较重要的运动部分，以便打样测试运动。这部分的sw模型已上传（结构测试_v0.2.1），并且附带有齿轮运动配合关系。
+
+<img title="" src="imgs/v0.2.1_test.png" alt="v0.2.1 testing model" width="652">
 
 todo：
 
@@ -38,17 +44,20 @@ todo：
 ---
 
 （update 20250316）紧凑的新结构初步验证完毕，可单独控制三个红齿轮的角度，从而完全将运动独立出来，如上图所示。带有预览轴的联动部分以及结构细节以后做。（结构测试_v0.2.0）
-<img title="" src="imgs/v0.2_test.png" alt="v0.2 testing model" width="204">
+
+<img title="" src="imgs/v0.2_test.png" alt="v0.2 testing model" width="372">
 
 ---
 
 （update）简单设想了一个更紧凑的方案，理论上应该兼容机械编码，实际参数和设计还未验证。
+
 <img title="" src="imgs/v0_2manuscript.jpg" alt="v0.2 manuscript design" width="213">
 
 ---
 
-目前设计了3组齿轮独立检索字的结构，齿轮的控制初步设计使用电机控制角度以此检索对应文字的轴。（字模滚筒_v0.1）
 <img title="" src="imgs/v0_1.png" alt="v0.1 design" width="297">
+
+目前设计了3组齿轮独立检索字的结构，齿轮的控制初步设计使用电机控制角度以此检索对应文字的轴。（字模滚筒_v0.1）
 
 下一步先以此结构打样出关键配件，齿轮如有通用件则直接买成品。主要任务是对齿轮部分进行运动验证。
 
