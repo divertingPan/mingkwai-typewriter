@@ -68,6 +68,8 @@
 
 <img title="" src="imgs/v031_B-roll.png" alt="v031 B-roll">
 
+<img title="" src="imgs/v031_A-roll.png" alt="v031 A-roll">
+
 打样了印版，对比测试了两种厚度的柔性树脂印版，肉眼观察树脂印版精度效果极佳，但风险是时间久会变硬，对于盖章的影响目前未知。
 
 <img title="" src="imgs/plate.jpg" alt="sample of the plate" width="750">
@@ -75,7 +77,9 @@
 下面展示的是使用印版沾取7021印油盖印的效果，左侧是轻轻施压，右侧是重压，（靠左的文字是薄印版，靠右的字是厚印版，不特别大力压的话，实际效果差别不大，可以哪个便宜做哪个）可以看出柔性印版对压力的要求没有那么高，在指定字上沾墨，轻轻压向纸面即可。
 <img title="" src="imgs/printed.jpg" alt="testing the characters" width="750">
 
-激光雕刻的胶皮TODO
+激光雕刻的胶皮不如柔性印版的效果好，盖印时我试了几次都没能完美盖出清晰的字迹。且二者加工成本接近，但是如果提升雕刻精度则会提升工费，且提升效果未知，整体性价比个人认为柔性印版最佳
+
+<img title="" src="imgs/plate2.jpg" alt="rubber plate test" width="750">
 
 ### （update 20260703）**结构测试_v0.3.0**:
 
