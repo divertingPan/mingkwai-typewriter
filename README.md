@@ -60,11 +60,11 @@
 
 ## 4. 进度
 
-### （update 20260806）
+### （update 20260811）
 
-确定以下参数：以顺时针（从左侧看方向）排序轴，C轴胶皮贴合治具，C轴所需中心铝合金轴、轴套、轴承参数
+确定以下参数：以顺时针（从左侧看方向）排序轴，C轴胶皮贴合治具，C轴所需中心铝合金轴、轴套、轴承参数。
 
-B轴装配基本完成，差一些原料还在路上，下次尝试往A轴上装配。B轴完成验证后将B和C轴图纸与装配先发布再说
+B轴装配基本完成，差一些原料还在路上，下次尝试往A轴上装配。B轴完成验证后将B和C轴图纸与装配先发布再说。
 
 **Todo list：**
 
@@ -74,6 +74,8 @@ B轴装配基本完成，差一些原料还在路上，下次尝试往A轴上装
 
 ---------------/3D打印轴套5x7x3.SLDPRT
 
+---------------/3D打印轴套3x8x10.SLDPRT
+
 ---------------/3D打印零件_c_roll.SLDPRT
 
 ---------------/3D打印零件_B-roll支架_left.SLDPRT
@@ -82,17 +84,27 @@ B轴装配基本完成，差一些原料还在路上，下次尝试往A轴上装
 
 ---------------/3D打印_10mm夹紧法兰联轴器.SLDPRT
 
----------------/3D打印_B轴安装治具.SLDPRT（这个不好用，需要再改改）
+---------------/3D打印_B轴安装治具.SLDPRT
 
----------------/3D打印_230mm套筒治具.SLDPRT（待验证）
+---------------/3D打印_230mm套筒治具.SLDPRT
 
----------------/3D打印_拉力张紧块_躺着打.SLDPRT（待验证，我发现推或者拉的张紧轮好像没有必要用这个东西）
+---------------/3D打印_B轴治具支架顶.SLDPRT
+
+---------------/3D打印_B轴治具支架柱.SLDPRT
 
 胶皮需要注意防晒，一部分存放在了阳台被晒了，有些变黄。<img title="" src="imgs/sunlight.png" alt="" width="80">
 
 <img title="" src="imgs/croll.jpg" alt="photo of c-roll" width="750">
 
-<img title="" src="imgs/roll_order.jpg" alt="the order of all roles" width="480">
+以下是初步完成的B-roll大致尺寸（背景为16寸笔记本电脑）
+
+<img title="" src="imgs/b_roll.jpg" alt="photo of b-roll" width="750">
+
+<img title="" src="imgs/b_roll_anim.gif" alt="animation of b-roll" width="750">
+
+以下是开发笔记备用
+
+<img title="" src="imgs/b_roll_note.jpg" alt="the note during testing" width="750">
 
 ### （update 20260802）
 
